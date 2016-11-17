@@ -5,6 +5,8 @@ Files for social network workshop at UBC
 
 # Netdraw section
 * Download Ucinet (Netdraw) - or can run from an executable file. If you need that option, talk to Stephanie or Jenny.
+   * https://sites.google.com/site/ucinetsoftware/downloads
+   
 * Download and unzip NetDraw lab files:
     * 20_SocialNetworksInMarineSystems.pdf
     * Ch20_SocialNetworks.zip
